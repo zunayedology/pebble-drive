@@ -1,1 +1,7 @@
 Continue from here: https://youtu.be/27hMNWcsa-Y?t=2991
+
+Convex Project Link: https://dashboard.convex.dev/t/alchemists/pebble-drive-26094/amicable-cat-572/data?table=files
+
+Clerk Project Link: https://dashboard.clerk.com/apps/app_2gglndghQY7fgYY3Snac39lQVBq/instances/ins_2gglnd2B8AGIjjlSYy2Way8xPWG
+
+Shadcn: https://ui.shadcn.com/docs
